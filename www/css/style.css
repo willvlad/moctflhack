@@ -1,0 +1,15 @@
+/* Empty. Add your own CSS if you like */
+h1#maintitle {
+    color:blue;
+    text-align: center;
+    font-size: 150%;
+    margin-top: 70px;
+}
+
+h1#supermaintitle{
+      color:blue;
+    text-align: center;
+    font-size: 350%;
+    margin-top: 70px;
+
+}
